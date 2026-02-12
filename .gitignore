@@ -12,9 +12,14 @@ ENV/
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
-# Data files (optional - uncomment if you want to exclude large data files)
-# data/
-# models/
+# Model files (too large for GitHub)
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Large data files
+data/raw/*.csv
+data/processed/*.csv
 
 # IDE
 .vscode/
