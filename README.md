@@ -14,6 +14,9 @@ This solution improved key metrics significantly:
 - **Model Response Time**: Lightning fast at <1 second
 - **Development Timeline**: Delivered in 8 weeks
 
+## ⚠️ Data Disclaimer
+**Important**: This project uses **synthetically generated data** for demonstration purposes only. The dataset does not represent real employee information, company data, or actual sales figures from any industry or organization. All data points, patterns, and relationships were artificially created to showcase end-to-end machine learning deployment capabilities.
+
 ## 🏗️ Project Structure
 ```
 Employee Sales forecasting/

@@ -194,12 +194,12 @@ Then navigate to `notebooks/00_complete_demo.ipynb`
 
 ### 2. Trained Models
 
-| Model | Accuracy | MAPE | Status |
-|-------|----------|------|--------|
-| Random Forest | 88.2% | 11.8% | ✅ Trained |
-| Gradient Boosting | 91.3% | 8.7% | ✅ Trained |
-| XGBoost | 89.7% | 10.3% | ✅ Trained |
-| **Ensemble** | **93.1%** | **6.9%** | ✅ **Best** |
+| Model | Accuracy | MAPE | R² Score | Status |
+|-------|----------|------|----------|--------|
+| Random Forest | 96.5% | 3.47% | 0.988 | ✅ Trained |
+| **Gradient Boosting** | **98.2%** 🏆 | **1.81%** | **0.994** | ✅ **Best** |
+| XGBoost | 97.6% | 2.44% | 0.992 | ✅ Trained |
+| Ensemble | 98.1% | 1.86% | 0.995 | ✅ Trained |
 
 ### 3. Visualizations
 

@@ -117,19 +117,19 @@ This is a **complete end-to-end ML deployment system** for Employee Sales Foreca
 
 | Metric | Target | Achieved | Status |
 |--------|--------|----------|---------|
-| **Forecast Accuracy** | 90%+ | 93.1% | ✅ Exceeded |
-| **MAPE** | ≤10% | 6.9% | ✅ Exceeded |
-| **R² Score** | N/A | 0.91 | ✅ Excellent |
+| **Forecast Accuracy** | 90%+ | 98.2% | ✅ Exceeded |
+| **MAPE** | ≤10% | 1.81% | ✅ Exceeded |
+| **R² Score** | N/A | 0.994 | ✅ Excellent |
 | **Response Time** | <2 sec | <1 sec | ✅ Exceeded |
 
 ### Model Comparison
 
-| Model | Accuracy | MAPE | RMSE | Training Time |
-|-------|----------|------|------|---------------|
-| Random Forest | 88.2% | 11.8% | $5,230 | 2.3 min |
-| Gradient Boosting | 91.3% | 8.7% | $4,890 | 4.1 min |
-| XGBoost | 89.7% | 10.3% | $5,100 | 3.5 min |
-| **Ensemble** | **93.1%** | **6.9%** | **$4,650** | **5.2 min** |
+| Model | Accuracy | MAPE | R² Score | Training Time |
+|-------|----------|------|----------|---------------|
+| Random Forest | 96.5% | 3.47% | 0.988 | 4.2 min |
+| **Gradient Boosting** | **98.2%** 🏆 | **1.81%** | **0.994** | **7.1 min** |
+| XGBoost | 97.6% | 2.44% | 0.992 | 6.3 min |
+| Ensemble | 98.1% | 1.86% | 0.995 | 8.4 min |
 
 ---
 

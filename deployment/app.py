@@ -145,6 +145,12 @@ def main():
     st.sidebar.metric("Avg Monthly Sales", f"${df.groupby('date')['sales'].sum().mean()/1e3:.0f}K")
     st.sidebar.metric("Date Range", f"{df['date'].min().strftime('%Y-%m')} to {df['date'].max().strftime('%Y-%m')}")
     
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("""<div style='font-size: 0.8rem; color: #666;'>
+    ⚠️ <b>Data Disclaimer</b>: This dashboard uses synthetically generated data for demonstration purposes. 
+    No real employee or company information is included.
+    </div>""", unsafe_allow_html=True)
+    
     # Page routing
     if page == "Dashboard Overview":
         dashboard_overview(df)
