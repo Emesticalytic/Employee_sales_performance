@@ -1,6 +1,5 @@
-# 🎉 Employee Sales Forecasting - Project Complete!
-
-**Project Lead**: Emem Akpan | Data Scientist & ML Engineer
+# 🎉 Employee Sales Forecasting 
+**Project Lead**: Emem Akpan | Data Scientist 
 
 ## ✅ What I Built
 
@@ -463,7 +462,7 @@ You now have a **complete, production-ready Employee Sales Forecasting system** 
 
 ---
 
-**🎉 Congratulations! Your ML forecasting system is ready for deployment!**
+**🎉 Congratulations to myself ML forecasting system is ready for deployment!**
 
 ---
 
