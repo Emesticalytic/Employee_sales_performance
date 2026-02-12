@@ -8,8 +8,9 @@ I built this machine learning system to predict individual employee sales perfor
 
 ## 📊 Business Impact
 This solution improved key metrics significantly:
-- **Forecast Accuracy**: Jumped from 65% to 98.1%
-- **Forecast Error (MAPE)**: Reduced from 18% to just 1.8%
+- **Forecast Accuracy**: Jumped from 65% to 98.2%
+- **Forecast Error (MAPE)**: Reduced from 18% to just 1.81%
+- **Best Model**: Gradient Boosting Regressor
 - **Model Response Time**: Lightning fast at <1 second
 - **Development Timeline**: Delivered in 8 weeks
 

@@ -41,9 +41,9 @@ Dashboard opens at: **http://localhost:8501**
 ### Models (All Trained & Ready)
 These are the actual results I achieved:
 - ✅ Random Forest (96.5% accuracy)
-- ✅ Gradient Boosting (98.2% accuracy)
+- ✅ **Gradient Boosting (98.2% accuracy)** 🏆 **BEST MODEL**
 - ✅ XGBoost (97.6% accuracy)
-- ✅ **Ensemble (98.1% accuracy)** ⭐ Best Model
+- ✅ Ensemble (98.1% accuracy)
 
 ### Visualizations (10+ charts)
 1. Sales distribution analysis

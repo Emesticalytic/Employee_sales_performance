@@ -5,11 +5,11 @@
 
 ## 🎯 Project Overview
 
-**Objective**: I designed and built this ML-based sales forecasting system to increase forecast accuracy from 65% to 98%+ using ensemble machine learning techniques.
+**Objective**: I designed and built this ML-based sales forecasting system to increase forecast accuracy from 65% to 98%+ using advanced machine learning techniques.
 
 **Status**: ✅ **COMPLETE & READY TO RUN**
 
-**Achievement**: Exceeded initial target (90%) by reaching 98.1% accuracy with MAPE of only 1.8%
+**Achievement**: Exceeded initial target (90%) by reaching 98.2% accuracy with Gradient Boosting model (MAPE: 1.81%)
 
 ---
 

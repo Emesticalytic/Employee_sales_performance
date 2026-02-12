@@ -28,9 +28,9 @@ I set out to significantly improve sales forecasting accuracy. Here's what the s
 - **Development**: Completed in 8 weeks
 
 ### Key Results
-✅ **Accuracy: 98.14%** (Ensemble Model)  
-✅ **MAPE: 1.86%** (Significantly exceeds target)  
-✅ **R² Score: 0.995**  
+✅ **Accuracy: 98.19%** (Gradient Boosting - Best Model)  
+✅ **MAPE: 1.81%** (Significantly exceeds target)  
+✅ **R² Score: 0.994**  
 ✅ **Inference Time: <1 second**  
 
 ### Technology Stack

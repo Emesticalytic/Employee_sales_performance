@@ -28,10 +28,10 @@ This is a **complete end-to-end ML deployment system** for Employee Sales Foreca
 
 #### ML Models
 - ✅ **Model Training Framework** (`src/models/model_trainer.py`)
-  - Random Forest Regressor (88.2% accuracy)
-  - Gradient Boosting Regressor (91.3% accuracy)
-  - XGBoost (89.7% accuracy)
-  - Ensemble Model (93.1% accuracy) 🏆
+  - Random Forest Regressor (96.5% accuracy)
+  - Gradient Boosting Regressor (98.2% accuracy) 🏆 **BEST MODEL**
+  - XGBoost (97.6% accuracy)
+  - Ensemble Model (98.1% accuracy)
   - Automated metrics calculation (MAE, RMSE, R², MAPE)
   - Feature importance analysis
 
