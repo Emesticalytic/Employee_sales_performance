@@ -90,6 +90,9 @@ streamlit run deployment/app.py
 - ✅ Model performance monitoring
 - ✅ Feature importance analysis
 
+## Check the dashboard
+- cd "/Users/ememakpan/Employee Sales forecasting" && streamlit run deployment/app.py
+- 
 ## 📞 Contact & Attribution
 
 **Developed by**: Emem Akpan  
