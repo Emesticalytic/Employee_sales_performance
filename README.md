@@ -91,7 +91,7 @@ streamlit run deployment/app.py
 - ✅ Feature importance analysis
 
 ## Check the dashboard
-- cd "/Users/ememakpan/Employee Sales forecasting" && streamlit run deployment/app.py
+- cd "/Users/ememakpan/Employee Sales forecasting" && streamlit run deployment/app.py/http://localhost:8501/
 - 
 ## 📞 Contact & Attribution
 
