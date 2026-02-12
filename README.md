@@ -1,4 +1,4 @@
-# Employee Sales Forecasting - ML Deployment Project
+# Employee Sales Forecasting - ML Project
 
 **Author**: Emem Akpan  
 **Role**: Data Scientist & ML Engineer
