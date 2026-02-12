@@ -452,8 +452,8 @@ MemoryError: Unable to allocate array
 4. Add more features
 
 ### Getting Help
-- 📧 Email: support@yourcompany.com
-- 📚 Documentation: [Full Docs Link]
+- 📧 Email: peacemem2019@gmail.com
+- 📚 Documentation:
 - 💬 Slack: #sales-forecasting channel
 
 ---
